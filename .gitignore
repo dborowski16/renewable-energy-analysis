@@ -79,6 +79,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+dave_api.py
 
 # IPython
 profile_default/
