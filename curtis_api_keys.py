@@ -8,12 +8,12 @@ g_key = "AIzaSyB5QyBfI88F5I0RK48jbGuTSvvm2BdgwhE"
 # nrel_key = "9bH6FAyLRnkdgVWfFiNbIhFhULWAJOc6n7cOe3pE"
 
 
-#NREL API KEY Curtis 8/1/2020 10:50am
-nrel_key = "nobOz33O5L39fdZC4qCJOw3Ql3ThzCQ6b4A1Yx42"
+# #NREL API KEY Curtis 8/1/2020 10:50am
+# nrel_key = "nobOz33O5L39fdZC4qCJOw3Ql3ThzCQ6b4A1Yx42"
 
 
-# #NREL API KEY Lindsey
-# nrel_key = "qBvAmHMh0HYOU2goxPsWWFYxc5adueX99kVIFbbn"
+#NREL API KEY Lindsey 8/1/2020 12:41pm
+nrel_key = "qBvAmHMh0HYOU2goxPsWWFYxc5adueX99kVIFbbn"
 
 
 # #NREL API KEY Brooke
